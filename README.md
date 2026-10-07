@@ -1,4 +1,4 @@
 # dhiraj-embedded-project
 this is my first repository
 <br>
-author: Dhiraj
+author: Dhiraj Chimanshette
